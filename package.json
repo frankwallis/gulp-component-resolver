@@ -1,7 +1,7 @@
 {
   "name": "gulp-component-resolver",
   "description": "A gulp plugin to pipe files resolved from a component.json",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/frankwallis/gulp-component-resolver",
   "author": {
     "name": "Frank Wallis",

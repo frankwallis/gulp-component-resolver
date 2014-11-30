@@ -1,5 +1,5 @@
 {
-  "name": "gulp-component-resolve",
+  "name": "gulp-component-resolver",
   "dependencies": {
     "frankwallis/bower-vertxbus": "*",
     "knalli/angular-vertxbus": "master"
@@ -13,6 +13,6 @@
   "templates": [
     
   ],
-  "repository": "frankwallis/gulp-component-resolve",
+  "repository": "frankwallis/gulp-component-resolver",
   "version": "master"
 }

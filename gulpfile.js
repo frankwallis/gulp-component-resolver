@@ -1,6 +1,6 @@
 var gulp = require("gulp");
-var componentStream = require("./");
 var print = require("gulp-print");
+var componentStream = require("./");
 
 gulp.task('default', function() {
 	return gulp.src('component.json')

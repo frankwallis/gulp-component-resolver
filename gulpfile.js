@@ -4,6 +4,6 @@ var componentStream = require("./");
 
 gulp.task('default', function() {
 	return gulp.src('component.json')
-		.pipe(componentStream.scripts())
+		.pipe(componentStream.custom({ fields: ['scripts', 'json'] }))
 		.pipe(print());
 })
